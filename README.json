@@ -18,12 +18,12 @@ Put your messages file or api to somewhere host, you can quick try on some free 
 
 Create LIFF and enter full url of index.html is placed and along with query params with value from the above steps to Endpoint URL setting. e.g. value in Endpoint URL
 
-https://mysite.com/sharetarget/index.html?liffId=1234-abcd&messages=https://mysite.com/messages.json
+https://mysite.com/sharetarget/index.html?liffId=2006470113-G8mPZ0jA&messages=https://mysite.com/messages.json
 Try to enter LIFF url is created on Line App such as, Text Message, Flex message, Rich menu to view result. 👍
 
 PS. You can split messages query params on Endpoint URL and place it after LIFF URL. e.g.
 
-https://liff.line.me/1234-abcd?messages=https://mysite.com/messages.json
+https://liff.line.me/2006470113-G8mPZ0jA?messages=https://mysite.com/messages.json
 Demo
 You can try with this resouce.
 
