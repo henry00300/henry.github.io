@@ -23,7 +23,7 @@ Try to enter LIFF url is created on Line App such as, Text Message, Flex message
 
 PS. You can split messages query params on Endpoint URL and place it after LIFF URL. e.g.
 
-https://liff.line.me/2006470113-G8mPZ0jA?messages=https://mysite.com/messages.json
+https://liff.line.me/2006470113-G8mPZ0jA?messages=https://henry.github.io/henry00300/ssone.json
 Demo
 You can try with this resouce.
 
